@@ -53,7 +53,7 @@ Run the Streamlit app:
 streamlit run Survey_app.py
 
 
-Open the link provided (default: http://localhost:8501) in your browser.
+Open the link provided  in your browser.
 
 Upload survey_results_public.csv
 
