@@ -78,18 +78,8 @@ Pandas
 Matplotlib
 
 
-snap shots
 
-## 📸 Screenshots  
 
-### Home Page  
-![Home Page](<img width="1808" height="776" alt="Screenshot 2025-09-13 111201" src="https://github.com/user-attachments/assets/6bbba982-a043-4d8c-8a18-1253dda1570d" />)
-
-### Filters Applied  
-![Filters](<img width="1808" height="776" alt="Screenshot 2025-09-13 111201" src="https://github.com/user-attachments/assets/206469da-45ad-47e9-9ae3-3fe2cc48b7f7" />)
-
-### Charts & Visualizations  
-![Charts](<img width="1814" height="774" alt="Screenshot 2025-09-13 111127" src="https://github.com/user-attachments/assets/2ae337aa-26e1-476b-8760-122247a12cae" />)
 
 
 
